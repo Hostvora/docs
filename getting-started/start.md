@@ -33,7 +33,7 @@ Before you can access our services, you will need to create a customer account. 
 
 ### 1. Create Your Account
 
-1. Visit our billing portal: [**https://billing.hostvora.com**](https://billing.hostvora.com/)
+1. Visit our billing portal: [**https://hostvora.com**](https://billing.hostvora.com/)
 2. Click on **“**[Create Account](https://billing.hostvora.com/register)**”** in the navigation bar.
 3. Fill in the required information:
    * Username
