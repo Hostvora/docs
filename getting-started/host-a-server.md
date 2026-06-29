@@ -12,11 +12,11 @@ Once your Hostvora account is verified, you can deploy your first server. This g
 
 ### 1. Choose Your Server Plan
 
-1. Log in to the billing panel: [**https://billing.hostvora.com**](https://billing.hostvora.com/)
-2. In the navigation menu, click on **“Servers”** → **“Create Server”**.
+1. Log in to the billing panel: [**https://hostvora.com**](https://hostvora.com/)
+2. In the navigation menu, click on **“Shop”** → **Choose your Game**.
 3. Browse through the available hosting products (e.g., Webserver, Voiceserver, game servers).
 4. Select the plan that best fits your needs.
-5. Click **“Create”**
+5. Buy it
 
 ***
 
@@ -24,7 +24,7 @@ Once your Hostvora account is verified, you can deploy your first server. This g
 
 After deployment, you will find your server under:
 
-**Server → Manage**
+**Dashboard → Choose your Server**
 
 There you will see:
 
