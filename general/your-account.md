@@ -36,7 +36,7 @@ To change your username, go to the "Profile Picture" in the top right corner of 
 
 #### How do I become a Hostvora partner? <a href="#wie-werde-ich-mc-host24-partner" id="wie-werde-ich-mc-host24-partner"></a>
 
-To apply, please send your partner application via email to partners@hostvora.com or open a support ticket.
+To apply, please send your partner application via email to partners@hostvora.com or open a support ticket on the dashboard.
 
 In general, we would like to support communities with 100 members or more. If you have fewer members in your community, please don't hesitate to contact us; we decide based on potential, not number.
 
