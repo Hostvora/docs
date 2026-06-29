@@ -6,9 +6,9 @@ icon: coin
 
 #### How do I top up my balance? <a href="#wie-lade-ich-guthaben-auf" id="wie-lade-ich-guthaben-auf"></a>
 
-To top up your balance with us, you first need a user account. Do this first: . After you have created and confirmed it, you can click on "Store" on the left and then redeem voucher codes or purchase credit.
+To top up your balance with us, you first need a user account. After you have created and confirmed it, you can click on a Product and you can purchase it. In the Dashboard can you add credits with money. They can be used for the server or product upgrades.
 
-You can then use this credit to create servers. The credit is usually deducted monthly, depending on the server. If there is no credit left, your server will expire and be permanently deleted.
+The credit is usually deducted monthly, depending on the server. If there is no credit left, your server will expire and be permanently deleted.
 
 So top up your balance regularly!
 
